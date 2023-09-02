@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="saldi"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-09-01 10:20:33 p. m."/>
+        <attribute name="created" value="c2FsZGk7REFZQU5BOzIwMjMtMDktMDE7MTA6MTQ6MzIgcC4gbS47MjQxNQ=="/>
+        <attribute name="edited" value="c2FsZGk7REFZQU5BOzIwMjMtMDktMDE7MTA6MjA6MzMgcC4gbS47MTsyNTIx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="n" type="Integer" array="False" size=""/>
+            <assign variable="n" expression="10"/>
+            <output expression="&quot;Hola, soy Dayana&quot;" newline="True"/>
+            <output expression="&quot;Me gusta mucho comer&quot;" newline="True"/>
+            <output expression="n" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
